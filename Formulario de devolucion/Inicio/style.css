@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Menu{
+    box-sizing: content-box;
+    width: 889px;
+    height: 50px;
+    border:gray 1px solid;
+    margin: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    color: black;
+    margin: 20px;
+    height: 100px;
+    position: center;
+    font-size: 200%;
+    text-decoration: none;
+}
+
